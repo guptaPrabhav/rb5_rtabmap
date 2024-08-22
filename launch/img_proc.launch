@@ -1,0 +1,7 @@
+<launch>
+	<node
+		pkg="obj_det"
+		type="image_proc.py"
+		name="image_proc"
+	/>
+</launch>
